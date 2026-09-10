@@ -23,3 +23,6 @@ A Retrieval-Augmented Generation (RAG) based Multi Agent System (MAS) orchestrat
 2. Install dependencies: `pip install -r requirements.txt --no-cache-dir`
 3. Ensure your OpenRouter API key is set in `keys.env`.
 4. Run it: `python main.py`
+5. Test case: What happened to Facebook’s stock price after the Cambridge Analytica allegations became public?
+6. Why did the Ninth Circuit reject Facebook’s argument that the earlier Guardian report had already made the Cambridge Analytica data misuse public?
+7. Which statements concerning Facebook users’ control over their data were challenged, and how did the Ninth Circuit rule on those claims?
