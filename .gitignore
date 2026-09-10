@@ -13,3 +13,5 @@ venv/
 
 # Generated storage
 storage/
+
+RAG-pipeline-main.zip
