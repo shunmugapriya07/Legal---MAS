@@ -1,0 +1,15 @@
+# API keys
+keys.env
+.env
+
+# Visual Studio
+.vs/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated storage
+storage/

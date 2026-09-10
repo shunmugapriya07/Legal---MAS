@@ -1,0 +1,12 @@
+langgraph
+langchain-openai
+langchain-google-genai
+llama-index
+llama-index-readers-file
+llama-index-retrievers-bm25
+llama-index-embeddings-huggingface
+llama-index-vector-stores-faiss
+faiss-cpu
+sentence-transformers
+pymupdf
+python-dotenv
